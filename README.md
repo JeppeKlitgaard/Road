@@ -1,8 +1,41 @@
-InitProject
+Road
 ===
-__InitProject__ aims to automate the process of initializing a new project.
+Road is a path-related module for Python.
 
-It's written in ___Python___ but can be extended by ___any language___.
+It makes it much easier to get common paths, such as config paths.
+
+
+Documentation (Docs)
+===
+TODO
+
+
+Goals
+===
+Road aims to be ___simple___ and ___pythonic___.
+
+
+Examples
+===
+TODO
+
+
+Installation
+===
+TODO
+
+
+Contributing
+===
+Don't be hesitant, please.  
+However, make sure that your code passes the __tests__.
+
+PEP8 compliant code is also preferred, if not provided, I shall take it upon myself to _transform_ it into compliant code.
+
+
+Contributors
+===
+See `./CONTRIBUTORS.md`
 
 
 Contact
