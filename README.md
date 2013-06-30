@@ -2,7 +2,7 @@ Road
 ===
 Road is a path-related module for Python.
 
-It makes it much easier to get common paths, such as config paths. (_Or at least hopes to!_)
+It makes it much easier to get common paths, such as config paths. \(_Or at least hopes to!_\)
 
 
 Documentation (Docs)
@@ -42,7 +42,7 @@ See `./CONTRIBUTORS.md`
 
 Contact
 ===
-You can contact me (_Jeppe Klitgaard_) at:
+You can contact me \(_Jeppe Klitgaard_\) at:
 
 * __Twitter__: [@JeppeKlitgaard](https://twitter.com/jeppeklitgaard)
 * __E-Mail__: [jeppe@dapj.dk](mailto:jeppe@dapj.dk)
