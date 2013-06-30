@@ -2,8 +2,8 @@
 from sys import platform
 
 if platform == "win32":
-    from windows import Functions
-    windows = Functions()
-    del Functions
+    from windows import windows
 
 del platform
+
+from config import config

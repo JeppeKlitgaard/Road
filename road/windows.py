@@ -1,10 +1,13 @@
 #coding: UTF8
 """
 System File Locations
-Retrieves common system path names on Windows XP/Vista
+Retrieves common system path names on Windows
 Depends only on ctypes, and retrieves path locations in Unicode
 """
-__all__ = ("Functions")
+
+# TAKEN FROM winpaths module, then PEP8'd and some other stuff.
+# Credit goes to Ryan Ginstrom
+
 from sys import platform
 if platform != "win32":
     error = "Environment wasn't Windows, was: '{env}'"
@@ -187,3 +190,5 @@ class Functions(object):
     @property
     def recent(self):
         return _get_path_buf(CONSTANTS["CSIDL_RECENT"])
+
+windows = Functions()
