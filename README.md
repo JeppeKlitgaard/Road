@@ -2,7 +2,7 @@ Road
 ===
 Road is a path-related module for Python.
 
-It makes it much easier to get common paths, such as config paths.
+It makes it much easier to get common paths, such as config paths. (_Or at least hopes to!_)
 
 
 Documentation (Docs)
@@ -13,6 +13,8 @@ TODO
 Goals
 ===
 Road aims to be ___simple___ and ___pythonic___.
+
+It also aims to supersede __winpaths__.
 
 
 Examples
